@@ -1,6 +1,6 @@
 # Fresh Feast
 
-Fresh Feast is a MERN food-ordering platform with customer, kitchen, delivery-partner, and administrator workflows. Orders include a fixed Rs. 20 delivery fee and synchronize across portals in real time.
+Fresh Feast is a MERN food-ordering platform with customer, kitchen, delivery-partner, and administrator workflows. synchronize across portals in real time.
 
 ## Features
 
