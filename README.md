@@ -20,7 +20,6 @@ Kitchen marks an order ready, a delivery partner accepts the pickup, then progre
 
 - Node.js 20 or newer
 - npm
-- Docker Desktop
 
 ## Local setup
 
